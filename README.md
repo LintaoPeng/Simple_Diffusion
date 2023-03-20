@@ -331,7 +331,7 @@ for epoch in range(epochs):
 
 
 
-
+### Data
 
 If you need to train this simple diffusion model from scratch, you need to download the dataset from [Baidu](https://pan.baidu.com/s/1OFIbBkd_YOehUwZUr-SU7Q) (The password is data) or [Google](https://drive.google.com/file/d/1MmH_flOgcFlJWXvAHHOvSRp1RsyILwVt/view?usp=sharing)
 
