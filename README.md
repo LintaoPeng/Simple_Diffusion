@@ -58,7 +58,7 @@ sqrt_alphas_cumprod = torch.sqrt(alphas_cumprod)
 sqrt_one_minus_alphas_cumprod = torch.sqrt(1. - alphas_cumprod)
 posterior_variance = betas * (1. - alphas_cumprod_prev) / (1. - alphas_cumprod)
 ```
-Now let's read our training data
+Now let's load our training data
 ```
 training_x = []
 path = './data/train/'  # 要改
