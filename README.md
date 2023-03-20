@@ -337,7 +337,7 @@ If you need to train this simple diffusion model from scratch, you need to downl
 
 Then, run the `train.ipynb` file with jupyter notebook, and the trained model weight file will be automatically saved in `checkpoint` folder. 
 
-Environmental requirements:
+### Environmental requirements:
 
 - Python 3.7 or a newer version
 
